@@ -1,0 +1,10 @@
+﻿Name ,Allegens,Price,Calories,Type,Size ,Alcoholic?,AlcContent
+Coke,N/a,3.49,140,soft ,360,FALSE,0
+Diet Coke,N/a,3.29,4,soft ,360,FALSE,0
+Fanta,N/a,3.49,63,soft ,360,FALSE,0
+Sprite,N/a,3.49,39,soft ,360,FALSE,0
+Peroni ,Wheat/Barley,4.49,,Beer,660,TRUE,4.7
+Heiniken Zero ,Barley,2.99,,Beer,660,TRUE,0.05
+Smirnoff Vodka ,N/a,3.5,,Spirits,25/50,TRUE,40
+Tanquary Ten ,N/a,3.5,,Spirits,25/50,TRUE,47.3
+House Wine,N/a,5.99,,Wine,125/175/250,TRUE,10
