@@ -1,8 +1,8 @@
 package menu.food;
 
-import menu.menuItem;
+import menu.MenuItem;
 
-public class Food extends menuItem {
+public class Food extends MenuItem {
 
 
     public Food(String name, String allergens, Double price, Integer calories) {

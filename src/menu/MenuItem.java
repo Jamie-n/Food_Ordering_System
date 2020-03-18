@@ -1,6 +1,6 @@
 package menu;
 
-public class menuItem {
+public class MenuItem {
 
     private String name;
     private String allergens;
@@ -8,7 +8,7 @@ public class menuItem {
     private Integer calories;
 
 
-    public menuItem(String name, String allergens, Double price, Integer calories) {
+    public MenuItem(String name, String allergens, Double price, Integer calories) {
         this.name = name;
         this.allergens = allergens;
         this.price = price;

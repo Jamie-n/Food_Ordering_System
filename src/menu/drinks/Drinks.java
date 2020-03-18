@@ -1,10 +1,8 @@
 package menu.drinks;
 
-import menu.menuItem;
+import menu.MenuItem;
 
-import java.util.function.DoubleToIntFunction;
-
-public class Drinks extends menuItem {
+public class Drinks extends MenuItem {
 
 
 
